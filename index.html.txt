@@ -1,0 +1,65 @@
+﻿Akshata C Shivannavar
+Student
+* Details
+* Education
+* Technical Skills
+* Project
+Details about me
+
+
+Name: Akshata C Shivannavar
+Age: 22
+Gender: Female
+Email: akshatashivannavar@gmail.com
+Phone_no: 7019317606
+Education
+
+
+
+
+
+
+Cource
+	Name of the institude
+	University
+	Percentage
+	SSCL
+	C.E.S Highschool
+	KSEEB
+	87.84
+	PUC
+	S.J.P.N Trust's PU Science college
+	Karnataka Board of the PRE-UNIVERSITY Education
+	69
+	BE
+	Hirasugar Institute of Technology
+	VTU
+	66
+	
+
+
+
+
+
+
+
+
+
+
+
+Technical Skills
+* Java
+* HTML
+* CSS
+* JavaScript
+* Angular
+* Oracle
+* MySQL
+* Python
+* Data Structures
+Project
+
+
+Role: Team member
+Title: Corona secure :Covid-19 health band
+Description: The Corona Secure app identify early infections due to corona virus and also helps in monitoring the condition of the infected patients.The main outcome of this project to get the information like temperature and SPO2 level of the patient .
